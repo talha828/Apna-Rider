@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "29726302192",
+    "firebase_url": "https://taxi-246da-default-rtdb.firebaseio.com",
+    "project_id": "taxi-246da",
+    "storage_bucket": "taxi-246da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29726302192:android:14f75f0f8d0f12ce440735",
+        "android_client_info": {
+          "package_name": "com.mighty.taxidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29726302192-9j32u509crvfr5meu1it2qlmslsl0kd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBkyp6n2PDMub-K7rY6Zw5uIruMsYlow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29726302192-9j32u509crvfr5meu1it2qlmslsl0kd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29726302192:android:a9299a5ac45a3467440735",
+        "android_client_info": {
+          "package_name": "com.mighty.taxirider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29726302192-9j32u509crvfr5meu1it2qlmslsl0kd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdBkyp6n2PDMub-K7rY6Zw5uIruMsYlow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29726302192-9j32u509crvfr5meu1it2qlmslsl0kd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
