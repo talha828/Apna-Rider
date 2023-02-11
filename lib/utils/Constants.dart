@@ -4,9 +4,9 @@ import 'package:mqtt_client/mqtt_server_client.dart';
 const mAppName = 'ADD_YOUR_APP_NAME';
 var errorThisFieldRequired = 'This field is required';
 
-const googleMapAPIKey = 'ADD_YOUR_GOOGLE_MAP_KEY';
+const googleMapAPIKey = 'AIzaSyBqan5y3WPd1YagIT8EMTHSrK3VYHsuWEE';
 
-const DOMAIN_URL = 'https://www.paisakama.com/talha'; // Don't add slash at the end of the url
+const DOMAIN_URL = 'https://www.paisakama.com/apnadriver.paisakama.com'; // Don't add slash at the end of the url
 const mBaseUrl = "$DOMAIN_URL/api/";
 
 final client = MqttServerClient.withPort("YOUR_MQTT_URL", "", 1883);

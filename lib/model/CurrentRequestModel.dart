@@ -338,7 +338,7 @@ class Driver {
   String? longitude;
   String? uid;
   String? playerId;
-  int? isOnline;
+  String? isOnline;
   int? isAvailable;
   String? timezone;
   String? fcmToken;
@@ -401,7 +401,7 @@ class Driver {
     longitude = json['longitude'];
     uid = json['uid'];
     playerId = json['player_id'];
-    isOnline = json['is_online'];
+    isOnline = json['is_online'].toString();
     isAvailable = json['is_available'];
     timezone = json['timezone'];
     fcmToken = json['fcm_token'];
